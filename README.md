@@ -16,11 +16,11 @@ Such variables are divided into several different categories such as estimated t
 
 Exploring the potential relationships between the variables, we initially analyzed the connection between each race’s racial percentage in relation to the total county population versus the percent of voters who voted for Biden in 2020.
 
-![image](https://github.com/user-attachments/assets/954fd1d2-c1bf-4471-a904-54968a80e5e4)
+![image](https://github.com/user-attachments/assets/3814315f-24f4-423f-8829-dd085e5db94d)
 
 We can see that as the proportion of White residents in relation to the total county population increases, the percentage of voters who voted for Biden decreases—suggesting that counties with a White majority tended to vote less for Biden. On the other hand, as the proportion of American Indian, Black, and Latino in the total county population increases, the percentage of voters who voted for Biden also increases. Thus, we are confident that there is a relationship between the percentage of a certain racial demographic and their political affiliation in 2020.
 
-![image](https://github.com/user-attachments/assets/b673d700-68d6-4ddd-a597-0ca5c86d0112)
+![image](https://github.com/user-attachments/assets/a86dd2ab-f665-4002-8fbf-655a4eb6115b)
 
 As exemplified by this plot displaying the percentage of Biden voters in relation to a county’s urban/rural code, counties which are considered extremely urban (1) tend to have a higher percentage of voters who voted for Biden in 2020 than other counties.
 
@@ -28,11 +28,11 @@ While there are outliers, as the counties become progressively more rural—repr
 
 In addition to race percentage and urban code, we investigate the percent of voters who voted for Biden in relation to the proportion of each education level per total county population.
 
-![image](https://github.com/user-attachments/assets/f5225354-a64b-48ed-8da9-410efb668325)
+![image](https://github.com/user-attachments/assets/1668ccd2-cf6a-47cf-9203-beae3128fbed)
 
 Most notably, we notice that counties which contained more than 30% percent of voters with a bachelor’s degree or higher typically voted for Biden. On the contrary, counties which contained more than 30% of voters with only an associate’s degree or high school diploma typically did not vote for Biden. Therefore, we can see from the plot that the percent of voters who voted for Biden varies depending on the percent of total county population with a bachelor’s degree.
 
-![image](https://github.com/user-attachments/assets/6111d60e-82df-4a9d-a13f-87a20dbe9665)
+![image](https://github.com/user-attachments/assets/6232feb5-4746-426a-b0ce-fb51892193cf)
 
 By interpreting Biden voters by age, we can discern that as median age increases, the percentage of democratic votes decreases. Nevertheless, there are apparent outliers.
 
@@ -40,7 +40,7 @@ The darker gray tail region shows a range that is both greater and less than the
 
 From this analysis, we can draw the conclusion that tail ends of age (specifically 18-25 and <50) played a significant role in political affiliation.
 
-![image](https://github.com/user-attachments/assets/af6ca338-27cd-4fce-9b28-7804251c997d)
+![image](https://github.com/user-attachments/assets/aaacb447-6ea2-4bcf-a35e-b160a731e99a)
 
 Gross Domestic Product (GDP) is a comprehensive estimate that incorporates the utility of final goods and services; it is used as a baselines for determining economic growth. Inspecting the graph, we establish that as GDP increases, the Percentage of Democrat Votes increases.
 
